@@ -1,4 +1,4 @@
-⚡ Reaction Time Tester  
+## Reaction Time Tester  
 
 A fun little web app to test your reflexes.  
 Shapes appear randomly on the screen — click them as fast as you can to see your reaction speed!  
